@@ -1,0 +1,17 @@
+Remember:
+
+firebase deploy
+
+firebase deploy --only functions
+firebase deploy --only hosting
+
+
+npm install cors
+npm install react-router-dom
+npm install
+
+npm install stripe/stripe-js
+npm install stripe/react-stripe-js
+npm install react-currency-format
+npm install moment
+
